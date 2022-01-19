@@ -1,2 +1,2 @@
 # cs208
-Files I've developed during Carleton's CS208 course in computer systems.
+Files developed by Cole Weinstein during Carleton's CS208 course in computer systems.
