@@ -1,7 +1,7 @@
 /*
     puzzle5.c
     Cole Weinstein
-    A simple function to compute the nth Fibonacci number.
+    A simple function to compute the nth Fibonacci number via a for loop. The function starts at Fibonacci numbers f_0 and f_1, and moves along the sequence n times, at which point it's reached f_n and will return this value.
 */
 
 int function1(int n) {
